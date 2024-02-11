@@ -1,2 +1,2 @@
 # Fun-Projects
-Projects
+Fun (Random) Projects
